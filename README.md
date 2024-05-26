@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I'm Dera!
 
 - 🔭 I’m currently working on **My Portfolio and Resume**
 - 🌱 I’m currently learning **Nextjs**
