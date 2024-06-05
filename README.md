@@ -7,7 +7,7 @@
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **raphaelwisdom1@gmail.com**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: *I can complete 40 push-ups in a row💪*
+- ⚡ Fun fact: *I can complete 40 reps of push-ups in one set💪*
 
 ## About Me:
 With a year of dedicated experience, I have honed my skills in leveraging AI and cutting-edge technologies like React, Tailwind, Javascript, Typescript, and more. My focus lies in crafting exceptional frontend web applications, ensuring a seamless user experience.
