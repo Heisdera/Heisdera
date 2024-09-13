@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Dera!
 
-- 🔭 I’m currently working on **My Portfolio and Resume**
-- 🌱 I’m currently learning **Nextjs**
+- 🔭 I’m currently working on **My Portfolio**
+- 🌱 I’m currently learning **Nodejs, SQL and Mongodb**
 - 👯 I’m looking to collaborate on **Open Source and Frontend Projects**
 - 🤔 I’m looking for help with **Frontend Gigs**
 - 💬 Ask me about **Technology and Personal Development**
