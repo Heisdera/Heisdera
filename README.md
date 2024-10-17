@@ -10,7 +10,7 @@
 - ⚡ Fun fact: *I can complete 40 reps of push-ups in one set💪*
 
 ## About Me:
-With 2 years of dedicated experience, I have honed my skills in leveraging AI and cutting-edge technologies like React, Tailwind, Javascript, Typescript, and more. My focus lies in crafting exceptional frontend web applications, ensuring a seamless user experience.
+With years of dedicated experience, I have honed my skills in leveraging AI and cutting-edge technologies like React, Tailwind, Javascript, Typescript, and more. My focus lies in crafting exceptional frontend web applications, ensuring a seamless user experience.
 
 ## Recent Projects
 - [Uncle Tobi's Shop - Customer End - An e-commerce store](https://uncle-tobi-shop.vercel.app)
