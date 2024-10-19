@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Dera!
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently **Cooking** something😂
 - 🌱 I’m currently learning **Nodejs, Firebase, mySQL and Mongodb**
 - 👯 I’m looking to collaborate on **Open Source and Frontend Projects**
 - 🤔 I’m open to all React || Nextjs **Frontend Gigs**
@@ -13,6 +13,7 @@
 With years of dedicated experience, I have honed my skills in leveraging AI and cutting-edge technologies like React, Tailwind, Javascript, Typescript, and more. My focus lies in crafting exceptional frontend web applications, ensuring a seamless user experience.
 
 ## Recent Projects
+- [My Portfolio site](https://raphael-wisdom-portfolio.vercel.app)
 - [Uncle Tobi's Shop - Customer End - An e-commerce store](https://uncle-tobi-shop.vercel.app)
 - [Uncle Tobi's Shop - Admin Dashboard](https://uncletobiadmin.vercel.app)
 - [GetKicks Nike E-commerce Store](https://getkicks-nike-sneakers-store.vercel.app)
