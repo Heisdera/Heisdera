@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Dera!
 
-- 🔭 I’m currently **Cooking** something😂
+- 🔭 I’m currently **Cooking**🧑‍🍳
 - 🌱 I’m currently learning **Nodejs, Firebase, mySQL and Mongodb**
 - 👯 I’m looking to collaborate on **Open Source and Frontend Projects**
 - 🤔 I’m open to all React || Nextjs **Frontend Gigs**
